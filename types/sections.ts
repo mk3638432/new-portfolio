@@ -80,3 +80,10 @@ export type ProjectType = {
   github?: string;
   link?: string;
 };
+
+
+export type FeedbackType = {
+  name: string;
+  role: string;
+  feedback: string;
+};
