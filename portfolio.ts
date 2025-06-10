@@ -7,6 +7,7 @@ import {
   SEODataType,
   SocialLinksType,
   GreetingsType,
+  EducationType,
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
@@ -109,16 +110,16 @@ export const SkillBars: SkillBarsType[] = [
   },
 ];
 
-// export const educationInfo: EducationType[] = [
-//   {
-//     schoolName: "University of Central Punjab",
-//     subHeader: "Bachelor of Science in Computer Science",
-//     duration: "September 2017 - April 2020",
-//     desc: "",
-//     grade: "Grade A",
-//     descBullets: [], // Array of Strings
-//   },
-// ];
+export const educationInfo: EducationType[] = [
+  {
+    schoolName: "University of Central Punjab",
+    subHeader: "Bachelor of Science in Computer Science",
+    duration: "September 2017 - April 2020",
+    desc: "",
+    grade: "Grade A",
+    descBullets: [], // Array of Strings
+  },
+];
 
 export const experience: ExperienceType[] = [
   {
