@@ -113,11 +113,11 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
+    schoolName: "Loyola Institute of Technology",
+    subHeader: "Bachelor of  Computer Science",
+    duration: "Aug 2018 - Mar 2022",
     desc: "",
-    grade: "Grade A",
+    grade: "",
     descBullets: [], // Array of Strings
   },
 ];
