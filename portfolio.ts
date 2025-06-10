@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description: `I’m a passionate Frontend Developer skilled in React, Next.js, Redux Toolkit, and modern UI libraries like Tailwind CSS and MUI. I specialize in building fast, scalable, and responsive web applications with clean architecture. I love crafting smooth user experiences and turning complex ideas into functional products. Always driven to learn and grow through hands-on development.
 
 `,
-  resumeLink: "https://drive.google.com/file/d/1YAk6FnKjCG4z2YwfWujbfatM5Mg-jasD/view?usp=drive_link",
+  resumeLink: "https://drive.google.com/file/d/10JtJGOUbOdDQo6t4k4ORBt7mqNbA51V8/view?usp=sharing",
 };
 
 export const openSource = {
@@ -28,6 +28,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:mk3638432@gmail.com",
+
   linkedin: "https://www.linkedin.com/in/manoj-kumar-2805b2262/",
   github: "https://github.com/mk3638432",
 };
