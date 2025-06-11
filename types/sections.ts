@@ -49,17 +49,6 @@ export type SkillBarsType = {
   progressPercentage: string;
 };
 
-// * EDUCATION SECTION
-
-// export type EducationType = {
-//   schoolName: string;
-//   subHeader: string;
-//   duration: string;
-//   desc: string;
-//   grade?: string;
-//   descBullets?: string[];
-// };
-
 // * EXPERIENCE SECTION
 
 export type ExperienceType = {
