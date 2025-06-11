@@ -7,8 +7,6 @@ import {
   SEODataType,
   SocialLinksType,
   GreetingsType,
-  EducationType,
-  FeedbackType,
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
@@ -112,17 +110,6 @@ export const SkillBars: SkillBarsType[] = [
   },
 ];
 
-export const educationInfo: EducationType[] = [
-  {
-    schoolName: "Loyola Institute of Technology",
-    subHeader: "Bachelor of  Computer Science",
-    duration: "Aug 2018 - Mar 2022",
-    desc: "",
-    grade: "",
-    descBullets: [], // Array of Strings
-  },
-];
-
 export const experience: ExperienceType[] = [
   {
     id: 1,
@@ -205,12 +192,3 @@ export const seoData: SEODataType = {
   // url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: ["Manoj", "Manoj Kumar ", "Portfolio", "Manoj Portfolio ", "Manoj Kumar  Portfolio"],
 };
-
-export const feedbacks: FeedbackType[] = [
-  {
-    name: "Syed Jamal",
-    role: "Frontend Developer at Meganos Software",
-    feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
-  },
-];

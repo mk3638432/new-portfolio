@@ -51,14 +51,14 @@ export type SkillBarsType = {
 
 // * EDUCATION SECTION
 
-export type EducationType = {
-  schoolName: string;
-  subHeader: string;
-  duration: string;
-  desc: string;
-  grade?: string;
-  descBullets?: string[];
-};
+// export type EducationType = {
+//   schoolName: string;
+//   subHeader: string;
+//   duration: string;
+//   desc: string;
+//   grade?: string;
+//   descBullets?: string[];
+// };
 
 // * EXPERIENCE SECTION
 
@@ -79,11 +79,4 @@ export type ProjectType = {
   desc: string;
   github?: string;
   link?: string;
-};
-
-
-export type FeedbackType = {
-  name: string;
-  role: string;
-  feedback: string;
 };
