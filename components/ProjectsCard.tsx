@@ -11,7 +11,7 @@ const ProjectsCard = ({ name, desc, github, link, img }: ProjectType) => {
     <Col lg="6">
       <Card className="w-[450px]" key={name}>
         <a href={link} target="_blank" rel="noopener noreferrer">
-          <Image className="p-3 cursor-pointer" alt="img" src={img} width={450} height={300} />
+          <Image className="p-3 cursor-pointer" alt="img" src={img || "/img/fallback.png"} width={450} height={300} />
         </a>
         <div className="pl-4">
           <h3>{name}</h3>

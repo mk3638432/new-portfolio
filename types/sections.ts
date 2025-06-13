@@ -68,5 +68,5 @@ export type ProjectType = {
   desc: string;
   github?: string;
   link?: string;
-  img?: string;
+  img?: string | undefined;
 };
