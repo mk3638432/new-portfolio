@@ -165,21 +165,31 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
   {
     link: "https://thriving-druid-986036.netlify.app/",
-
+    img: "/img/auction-journal.png",
     name: "Auction Journal",
     desc: "Created Complete Auction Journal Website Using React JS and Node JS Integrated Material-UI  components, including Dialogues, Table Pagination, Styled components, Accordion, Snackbar notifications, and more, to create a cohesive and visually appealing user interface, enhancing user interaction and experience in the Auction Journal project ",
   },
   {
     link: "https://kreo.in/",
+    img: "/img/kreo.png",
+
     name: "KREO",
     desc: "Developed a dynamic web application using Next.js and React , ensuring cutting-edge features and optimal performance.  Maintained comprehensive documentation and adhered to ESLint and Next.js-specific configurations to ensure code quality and facilitate collaborative development.",
   },
 
   {
+    link: "https://pdf-generator-iota-six.vercel.app/",
+    img: "/img/pdf-generator.png",
+
+    name: "PDF Generator",
+    desc: "PDF Invoice Generator is a responsive web application built using React, Bootstrap, jsPDF, html2canvas, and FileSaver that allows users to dynamically add invoice items, input billing details, calculate totals with tax and discount rates, and export professional-looking invoices as downloadable PDF files with a single click.",
+  },
+  {
     link: "https://evently-ge233kmzp-mk3638432.vercel.app/",
+    img: "/img/evently.png",
 
     name: "Evently",
-    desc: "Developed and launched Evently, an innovative event creation and management platform that empowers users to seamlessly create, publish, and manage their events on the evently website.",
+    desc: "Developed and launched Evently, a modern and user-centric event creation and management platform that enables users to effortlessly create, customize, and publish events. The platform supports features like dynamic form handling, real-time updates, attendee management, and responsive design optimized for both desktop and mobile devices.",
   },
 ];
 
