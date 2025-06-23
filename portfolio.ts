@@ -139,7 +139,7 @@ export const experience: ExperienceType[] = [
   {
     id: 2,
     companyName: "ICETEA MEDIA",
-    period: "Nov 2022 - Oct 2023 · 1 yr 0 mos",
+    period: "Nov 2022 - Oct 2023 · 1 yr 7 mos",
     position: "Frontend Web Developer",
     location: "HSR Layout, Bangalore, India",
     skills: [
