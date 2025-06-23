@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   description: `I’m a passionate Frontend Developer skilled in React, Next.js, Redux Toolkit, and modern UI libraries like Tailwind CSS and MUI. I specialize in building fast, scalable, and responsive web applications with clean architecture. I love crafting smooth user experiences and turning complex ideas into functional products. Always driven to learn and grow through hands-on development.
 
 `,
-  resumeLink: "https://drive.google.com/file/d/10nqnzVQOcoXaX5PbXjsqc4cKSKNRuDYA/view",
+  resumeLink: "https://drive.google.com/file/d/1vrW1PlMkefk4EfPH3shCAgCVgk0X9--a/view?usp=drive_link",
 };
 
 export const openSource = {
