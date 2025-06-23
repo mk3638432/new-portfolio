@@ -5,7 +5,6 @@ import ExperienceCard from "../components/ExperienceCard";
 import Fade from "react-reveal/Fade";
 
 const Experience = () => {
-  console.log(experience, "experience");
   return (
     experience && (
       <Fade bottom duration={2000}>
