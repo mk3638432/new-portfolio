@@ -114,7 +114,7 @@ export const experience: ExperienceType[] = [
   {
     id: 1,
     companyName: "Avija Digital",
-    period: "Nov 2023 - May 2025 · 1 yr 7 mos",
+    period: "Apr 2024 - May 2025 · 1 yr 2 mos",
     position: "Frontend Web Developer",
     location: "Delhi, India",
     skills: [
@@ -139,7 +139,7 @@ export const experience: ExperienceType[] = [
   {
     id: 2,
     companyName: "ICETEA MEDIA",
-    period: "Nov 2022 - Oct 2023 · 1 yr 7 mos",
+    period: "May 2022 - Mar 2024 · 1 yr 11 mos",
     position: "Frontend Web Developer",
     location: "HSR Layout, Bangalore, India",
     skills: [
